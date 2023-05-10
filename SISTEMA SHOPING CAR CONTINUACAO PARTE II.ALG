@@ -92,7 +92,7 @@ Inicio
          ESCREVAL("DIGITE 1 PARA VOLTAR AO INICIO")
          ESCREVAL("____________________")
          LEIA (ACESSO)
-
+SENAO
 
          SE ACESSO = 2 ENTAO
 
@@ -118,7 +118,7 @@ Inicio
             ESCREVAL("____________________")
             LEIA (ACESSO)
 
-
+SENAO
             SE ACESSO = 3 ENTAO
                //EM CONSTRUCAO
 
